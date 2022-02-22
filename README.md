@@ -1,1 +1,1 @@
-# gitBasics
+# codingChallenges
